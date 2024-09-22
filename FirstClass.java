@@ -6,5 +6,7 @@ public class FirstClass {
         int number = 1971;
         System.out.println("Independent year of Bangladesh is:" + number);
 
+        System.out.println("Hello World");
+
     }
 }
